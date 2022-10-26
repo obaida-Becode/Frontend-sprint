@@ -1,0 +1,35 @@
+.circleSize{
+    padding: 20px;
+    margin: 20px;
+        height: 120px;
+        width: 120px;
+        border-color: black;
+        border-radius: 50%;
+        display: inline-block;
+        border:solid
+}
+
+.circleColor{
+    background-color: #ffff;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    display: block;
+    justify-content: center;
+}
+
+.rectangle{
+
+        width: 500px; 
+        height: 80px;
+        border:solid;
+        border-color: black;
+        background-color: #FFFF;
+        text-align: center;
+        padding: 5px;
+        margin: 20px;
+        margin-left: 33%;
+     
+}
